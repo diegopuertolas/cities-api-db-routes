@@ -25,4 +25,4 @@
    - **`route`**: Se definen las rutas o endpoints disponibles para cada uno de los elementos del modelo de datos.
    - **`controller`**: Se definen las funciones que reciben las peticiones de las rutas definidas en la capa `route`.
    - **`service`**: Funciones que definen la lógica de aplicación.
-   - **`configuration`**: Incluy el fichero de configuración de la base de datos, indicando el tipo (SQLite) y la ubicación (el fichero `cities.db`).
+   - **`configuration`**: Incluye el fichero de configuración de la base de datos, indicando el tipo (SQLite) y la ubicación (el fichero `cities.db`).
